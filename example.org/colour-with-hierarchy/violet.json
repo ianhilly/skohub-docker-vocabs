@@ -4,22 +4,22 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fcolour-with-hierarchy%2Fviolet",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fcolour-with-hierarchy%2Fviolet",
   "prefLabel": {
-    "en": "violet",
-    "de": "Violett"
+    "de": "Violett",
+    "en": "violet"
   },
   "altLabel": {
-    "en": [
-      "purple"
-    ],
     "de": [
       "Lila"
+    ],
+    "en": [
+      "purple"
     ]
   },
   "inScheme": {
     "id": "https://example.org/colour-with-hierarchy/",
     "title": {
-      "en": "Colour vocabulary with hierarchy",
-      "de": "Farbvokabular mit Hierarchie"
+      "de": "Farbvokabular mit Hierarchie",
+      "en": "Colour vocabulary with hierarchy"
     }
   },
   "topConceptOf": {

@@ -4,22 +4,21 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fcolour%2Fviolet",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fcolour%2Fviolet",
   "prefLabel": {
-    "en": "violet",
-    "de": "Violett"
+    "de": "Violett",
+    "en": "violet"
   },
   "altLabel": {
-    "en": [
-      "purple"
-    ],
     "de": [
       "Lila"
+    ],
+    "en": [
+      "purple"
     ]
   },
   "inScheme": {
     "id": "https://example.org/colour/",
     "title": {
-      "en": "Colour Vocabulary",
-      "de": "Farbvokabular"
+      "de": "LS-Systematik"
     }
   },
   "topConceptOf": {
