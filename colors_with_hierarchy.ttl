@@ -13,189 +13,189 @@ ls: a skos:ConceptScheme ;
 ls:ls_a a skos:Concept ;
     skos:prefLabel "Wörterbücher"@de, "Dictionaries"@en ;
     skos:altLabel "Lexika"@de, "Lexicons"@en ;
-    skos:topConceptOf colour: .
+    skos:topConceptOf ls: .
 
 ls:ls_b a skos:Concept ;
     skos:prefLabel "Bibliographies, Manuscript Catalogues, Printer Catalogues, Library Catalogues"@en, "Bibliographien, Handschriftenverzeichnisse, Druckverzeichnisse, Bibliothekskataloge"@de ;
     skos:narrower ls:ls_b_1, ls_b_2, ls_b_3, ls_b_4, ls_b_5, ls_b_6, ls_b_7, ls_b_8, ls_b_9, ls_b_10, ls_b_11, ls_b_12, ls_b_13, ls_b_14, ls_b_15, ls_b_16, ls_b_17, ls_b_18, ls_b_19, ls_b_20, ls_b_21, ls_b_22, ls_b_23, ls_b_24, ls_b_25, ls_b_26, ls_b_27, ls_b_28, ls_b_29, ls_b_30, ls_b_31, ls_b_40, ls_b_50, ls_b_51, ls_b_52, ls_b_53 ;
-    skos:topConceptOf colour: .
+    skos:topConceptOf ls: .
     
 ls:ls_b_1 a skos:Concept ;
     skos:prefLabel "... > Antique"@en, "... > Antike"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_2 a skos:Concept ;
     skos:prefLabel "... > Legism"@en, "... > Legistik"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_3 a skos:Concept ;
     skos:prefLabel "... > Canon Law"@en, "... > Kanonistik"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_4 a skos:Concept ;
     skos:prefLabel "... > Europe"@en, "... > Europa"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_5 a skos:Concept ;
     skos:prefLabel "... > Baltics"@en, "... > Baltikum"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_6 a skos:Concept ;
     skos:prefLabel "... > Belgium"@en, "... > Belgien"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_7 a skos:Concept ;
     skos:prefLabel "... > Bulgaria"@en, "... > Bulgarien"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_8 a skos:Concept ;
     skos:prefLabel "... > Denmark"@en, "... > Dänemark"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_9 a skos:Concept ;
     skos:prefLabel "... > Germany"@en, "... > Deutschland"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_10 a skos:Concept ;
     skos:prefLabel "... > England, Ireland"@en, "... > Englang, Irland"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_11 a skos:Concept ;
     skos:prefLabel "... > France"@en, "... > Frankreich"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_12 a skos:Concept ;
     skos:prefLabel "... > Greece"@en, "... > Griechenland"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_13 a skos:Concept ;
     skos:prefLabel "... > Italy"@en, "... > Italien"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_14 a skos:Concept ;
     skos:prefLabel "... > Jugoslavia"@en, "... > Jugoslawien"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_15 a skos:Concept ;
     skos:prefLabel "... > Luxemburg"@en, "... > Luxemburg"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_16 a skos:Concept ;
     skos:prefLabel "... > The Netherlands, Belgien (until 1830), Burgundy"@en, "... > Niederlande, Berlgien (bis 1830), Burgund"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_17 a skos:Concept ;
     skos:prefLabel "... > Norway"@en, "... > Norwegen"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_18 a skos:Concept ;
     skos:prefLabel "... > Austria"@en, "... > Österreich"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_19 a skos:Concept ;
     skos:prefLabel "... > Poland"@en, "... > Polen"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_20 a skos:Concept ;
     skos:prefLabel "... > Portugal"@en, "... > Portugal"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_21 a skos:Concept ;
     skos:prefLabel "... > Romania"@en, "... > Rumänien"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_22 a skos:Concept ;
     skos:prefLabel "... > Russia"@en, "... > Russland"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_23 a skos:Concept ;
     skos:prefLabel "... > Scottland"@en, "... > Schottland"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_24 a skos:Concept ;
     skos:prefLabel "... > Sweden"@en, "... > Schweden"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_25 a skos:Concept ;
     skos:prefLabel "... > Switzerland"@en, "... > Schweiz"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_26 a skos:Concept ;
     skos:prefLabel "... > Spain"@en, "... > Spanien"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_27 a skos:Concept ;
     skos:prefLabel "... > Czechoslovakia"@en, "... > Tschechoslowakei"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_28 a skos:Concept ;
     skos:prefLabel "... > Hungary"@en, "... > Ungarn"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_29 a skos:Concept ;
     skos:prefLabel "... > Finland"@en, "... > Finnland"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_30 a skos:Concept ;
     skos:prefLabel "... > Iceland"@en, "... > Island"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_31 a skos:Concept ;
     skos:prefLabel "... > Liechtenstein"@en, "... > Lichtenstein"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_40 a skos:Concept ;
     skos:prefLabel "... > Byzanz"@en, "... > Byzanz"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_50 a skos:Concept ;
     skos:prefLabel "... > Canada"@en, "... > Kanada"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_51 a skos:Concept ;
     skos:prefLabel "... > USA"@en, "... > USA"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_52 a skos:Concept ;
     skos:prefLabel "... > South Africa"@en, "... > Südafrika"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_b_53 a skos:Concept ;
     skos:prefLabel "... > Developing Countries"@en, "... > Entwicklungsländer"@de ;
-    skos:inScheme colour: .
+    skos:inScheme ls_b: .
 
 ls:ls_c a skos:Concept ;
     skos:prefLabel "Biobibliographien"@de, "Biobibliographies"@en ;
-    skos:topConceptOf colour: .
+    skos:topConceptOf ls: .
 
 ls:ls_d a skos:Concept ;
     skos:prefLabel "Nachschlagewerke"@de, "Reference Works"@en ;
-    skos:topConceptOf colour: .
+    skos:topConceptOf ls: .
 
 ls:ls_e a skos:Concept ;
     skos:prefLabel "Hilfswissenschaften"@de, "Ancillary Sciences"@en ;
-    skos:topConceptOf colour: .
+    skos:topConceptOf ls: .
 
 ls:ls_f a skos:Concept ;
     skos:prefLabel "Atlanten"@de, "Maps"@en ;
-    skos:topConceptOf colour: .
+    skos:topConceptOf ls: .
 
 ls:ls_g a skos:Concept ;
     skos:prefLabel "Geschichte, Geschichte der Philosophie, Kirchengeschichte, Wirtschafts- und Sozialgeschichte, Verfassungsgeschichte, Verwaltungsgeschichte, Kulturgeschichte, Politik, u.a."@de, "History, History of Philosophy, Ecclestical History, Economic and Social History, Constitutional History, Administrative History, Cultural History, Political History, etc."@en ;
-    skos:topConceptOf colour: .
+    skos:topConceptOf ls: .
 
 ls:ls_h a skos:Concept ;
     skos:prefLabel "Rechtsgeschichte"@de, "Legal History"@en ;
-    skos:topConceptOf colour: .
+    skos:topConceptOf ls: .
 
 ls:ls_i a skos:Concept ;
     skos:prefLabel "Rechtsquellen"@de, "Legal Sources"@en ;
-    skos:topConceptOf colour: .
+    skos:topConceptOf ls: .
 
 ls:ls_k a skos:Concept ;
     skos:prefLabel "Geltendes Recht, allg. Darstellungen"@de, "Effective Laws, General Works"@en ;
-    skos:topConceptOf colour: .
+    skos:topConceptOf ls: .
 
 ls:ls_l a skos:Concept ;
     skos:prefLabel "Geltendes Recht, Kommentare"@de, "Effective Laws, Commentaries"@en ;
-    skos:topConceptOf colour: .
+    skos:topConceptOf ls: .
